@@ -1,0 +1,21 @@
+{
+	"author":"Akshay Bhargava",
+	"name": "operatormath",
+	"version": "1.0.0",
+	"description": "play with locations",
+	"main":"mathops",
+	"repository": {
+		"type":"git",
+		"url":"https://github.com/akshay-1489/operatormath"
+	},
+	"keywords": [
+		"add",
+		"subtract",
+		"multiply",
+		"divide"
+	],
+	"dependencies":{},
+	"engines":{
+		"node":"*"
+	}
+}
